@@ -20,7 +20,7 @@
         },
         "instance_type": "t2.micro",
         "ssh_username": "ubuntu",
-        "ami_name": "pythonapp-ami-packer",
+        "ami_name": "packer-build-ami",
         "force_deregister": true
     }],
     "_comment": "Running Ansible roles on the image",
